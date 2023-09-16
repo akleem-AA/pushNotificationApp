@@ -1,3 +1,9 @@
+VISIT MY BLOG:- https://hashnode.com/edit/cllc3ujbx000d09md5h1lgum0
+
+
+
+
+
 A push notification is a message or alert that is sent from a server or backend system to a user's device They provide a way to deliver timely and relevant information to users, even when the app is not actively running or in the foreground. Users can receive push notifications even if they are not currently using the app or have the app closed.
 
 First of all, we need to set up a Push Notification Service
